@@ -1,4 +1,5 @@
 <?php
 
+$variableDelEmi="Holaaaaaa, asjasjasdasd";
 
 ?>
