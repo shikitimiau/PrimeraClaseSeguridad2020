@@ -1,3 +1,9 @@
+<?php
+
+for ($i=0; $i < ; $i++) {
+  // code...
+}
+?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
