@@ -1,4 +1,9 @@
 <?php
+
+  function adios($value='')
+  {
+    // code...
+  }
   // parte de Diego
   echo "Shikitimiau";
 
