@@ -10,4 +10,5 @@ $variableDelEmi="Holaaaaaa, asjasjasdasd";
   }
   hola();
 
+  echo "Shikitimiau";
 ?>
